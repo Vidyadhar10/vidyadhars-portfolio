@@ -1,0 +1,83 @@
+{
+    "1": {
+        "proj-type": "app",
+        "proj-title": "Contacts Management App",
+        "proj-sub-title": "(Contacts management app using NodeJS, Express and MongoDB)",
+        "proj-category": "API Development",
+        "projImg1": "assets/img/Project_Images/CMA-1.png",
+        "projImg2": "assets/img/Project_Images/CMA-2.png",
+        "projImg3": "assets/img/Project_Images/CMA-3.png",
+        "proj-date": "October 2023",
+        "proj-url": "https://github.com/Vidyadhar10/Contact-Management-App.git",
+        "proj-description": [
+            "<li>Created different API-endpoints required for Contact management app</li>",
+            "<li>API's such as Register-User, login, current, create-contact, update-contact, delete-contact, etc</li>",
+            "<li>Implemented functionalities using NodeJS, ExpressJS, and MongoDB.</li>"
+        ]
+    },
+    "2": {
+        "proj-type": "web",
+        "proj-title": "Task Tracker",
+        "proj-sub-title": "(Projects-Employees Management System Using PHP, AJAX, SQL, JQuery, JS, HTML, CSS, BootStrap)",
+        "proj-category": "Web Development",
+        "projImg1": "assets/img/Project_Images/TT-1.png",
+        "projImg2": "assets/img/Project_Images/TT-2.png",
+        "projImg3": "assets/img/Project_Images/TT-3.png",
+        "proj-date": "May 2023",
+        "proj-url": "https://github.com/Vidyadhar10/Task_Tracker_2.0.git",
+        "proj-description": [
+            "<li>Collaborated with a team of 6 members on a web-based Task Tracker project.</li>",
+            "<li>Utilized technologies like PHP, JSON, AJAX, and MySQL for server-side scripting, data storage, and user authentication</li>",
+            "<li>Implemented frontend and backend functionalities using HTML, CSS, and JavaScript, JQuery.</li>",
+            "<li>Task Tracker aims to manage and enhance any organization's projects and employees performance and keep track of employee's work.</li>"
+        ]
+    },
+    "3": {
+        "proj-type": "web",
+        "proj-title": "ASVA Travels",
+        "proj-sub-title": "(TRAVEL BOOKING SITE Using ASP.NET and MySQL)",
+        "proj-category": "Web Development",
+        "projImg1": "assets/img/Project_Images/ASVA-1.png",
+        "projImg2": "",
+        "projImg3": "",
+        "proj-date": "January 2022",
+        "proj-url": "https://github.com/Vidyadhar10/ASVA-Travels.git",
+        "proj-description": [
+            "<li>Developed some of the essential web forms for a travel booking site using ASP.NET.</li>",
+            "<li>Designed pages including home page, admin pages, and user pages integrated with SQL database</li>",
+            "<li>Used Microsoft SQL Server for project database and connection.</li>"
+        ]
+    },
+    "4": {
+        "proj-type": "console",
+        "proj-title": "ATM MACHINE USING C++",
+        "proj-sub-title": "(Console based ATM Machine Using C++)",
+        "proj-category": "Web Development",
+        "projImg1": "assets/img/Project_Images/ATM-1.png",
+        "projImg2": "",
+        "projImg3": "",
+        "proj-date": "2021",
+        "proj-url": "",
+        "proj-description": [
+            "<li>Developed console-based ATM machine application using C++ in Code Blocks.</li>",
+            "<li>Implemented functionalities such as creating account, balance inquiry, withdrawal and deposit, etc</li>",
+            "<li>Basic concepts of OOPs are implemented in this project.</li>"
+        ]
+    },
+    "5": {
+        "proj-type": "console",
+        "proj-title": "WORD CLOUD",
+        "proj-sub-title": "(Word Cloud using python)",
+        "proj-category": "Console App",
+        "projImg1": "assets/img/Project_Images/WC-1.png",
+        "projImg2": "",
+        "projImg3": "",
+        "proj-date": "2022",
+        "proj-url": "www.github.com",
+        "proj-description": [
+            "<li>Implemented world cloud using Python automation to generate visually appealing word art from a selected paragraph.</li>",
+            "<li>It creates a word art picture from a paragraph.</li>",
+            "<li>Python program which selects random unusual words and append it into a picture with random colors.</li>"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "1": {
+        "ratings": "5",
+        "person-profile-photo": "assets/img/testimonials/Sourabh.jpeg",
+        "person-name": "Sourabh Raorane",
+        "person-designation": "Director (@VEDBIZ Technologies Private Limited)",
+        "person-description": "Vidyadhar's ability to tackle complex coding challenges is truly remarkable. His problem-solving skills are exceptional, and he consistently delivers elegant solutions that exceed expectations."
+    },
+    "2": {
+        "ratings": "4",
+        "person-profile-photo": "assets/img/testimonials/Ajit-Sir.png",
+        "person-name": "Ajit Sutar",
+        "person-designation": "Sr. Developer (@Compserv Consultants Pvt. Ltd., Kolhapur)",
+        "person-description": "Vidyadhar's passion for coding is infectious. He brings energy and enthusiasm to every project, and his dedication to writing clean and efficient code is evident in the outstanding results he achieves."
+    }
+}
